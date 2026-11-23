@@ -4,7 +4,7 @@ Agent skills (`SKILL.md`) for AI coding agents such as Claude Code. Each folder 
 
 | Skill | What it does |
 |---|---|
-| [network-analyser](network-analyser/SKILL.md) | Fast L2/L3 troubleshooting for MikroTik RouterOS: VLAN, ARP, MAC table, STP path. Read-only analysis, max 2 query rounds, fixes come with backup and rollback. |
+| [network-analyser](network-analyser/SKILL.md) | Fast L2/L3 troubleshooting for any vendor (MikroTik, Cisco, Juniper, Huawei): VLAN, ARP, MAC table, STP path, port drops. Read-only analysis, max 2 query rounds, fixes come with backup and rollback. |
 
 ## Install (Claude Code)
 
